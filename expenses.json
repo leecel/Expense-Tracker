@@ -1,0 +1,20 @@
+[
+    {
+        "Date": "20250917",
+        "Amount": 500.0,
+        "Category": "Food",
+        "Description": "adew"
+    },
+    {
+        "Date": "20261517",
+        "Amount": 600.0,
+        "Category": "Food",
+        "Description": "kajde"
+    },
+    {
+        "Date": "10192029",
+        "Amount": 300.0,
+        "Category": "Food",
+        "Description": "askjd"
+    }
+]
